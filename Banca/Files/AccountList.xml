@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <CNP>6000128055089</CNP>
+    <Number>CBAEUR20203205089246</Number>
+    <Balance>800</Balance>
+    <Currency>EUR</Currency>
+    <Type>CURRENT</Type>
+    <Time>-</Time>
+  </Account>
+  <Account>
+    <CNP>6000128055089</CNP>
+    <Number>CBAEUR20203235089382</Number>
+    <Balance>1005</Balance>
+    <Currency>EUR</Currency>
+    <Type>CURRENT</Type>
+    <Time>-</Time>
+  </Account>
+  <Account>
+    <CNP>1000128055089</CNP>
+    <Number>CBARON20203255089357</Number>
+    <Balance>100</Balance>
+    <Currency>RON</Currency>
+    <Type>CURRENT</Type>
+    <Time>-</Time>
+  </Account>
+  <Account>
+    <CNP>1000128055089</CNP>
+    <Number>CBARON20203255089358</Number>
+    <Balance>100</Balance>
+    <Currency>RON</Currency>
+    <Type>DEPOSIT</Type>
+    <Time>12</Time>
+  </Account>
+</ArrayOfAccount>

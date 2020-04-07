@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfBank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bank>
+    <Location>ORADEA</Location>
+    <BankMoney>9980002</BankMoney>
+  </Bank>
+  <Bank>
+    <Location>CLUJ</Location>
+    <BankMoney>999000</BankMoney>
+  </Bank>
+</ArrayOfBank>

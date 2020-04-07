@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <FirstName>Alexandra</FirstName>
+    <LastName>Stan</LastName>
+    <CNP>6000128055089</CNP>
+    <Phone>+40751703710</Phone>
+    <Email>stan.alexandra2801@gmail.com</Email>
+    <Address>Cazaban 54, Bloc An 199, Etaj 3, Apartament 11</Address>
+  </Client>
+  <Client>
+    <FirstName>Antonia</FirstName>
+    <LastName>Stana</LastName>
+    <CNP>6000128055088</CNP>
+    <Phone>+0751703718</Phone>
+    <Email>stana.antonia@yahoo.com</Email>
+    <Address>Str. Pluto, Nr. 34</Address>
+  </Client>
+  <Client>
+    <FirstName>Ioan</FirstName>
+    <LastName>Popovici</LastName>
+    <CNP>1000128055089</CNP>
+    <Phone>+40725147369</Phone>
+    <Email />
+    <Address>Str.Asdf, Nr. 432</Address>
+  </Client>
+</ArrayOfClient>

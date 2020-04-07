@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfBankEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BankEmployee>
+    <FirstName>Ioana</FirstName>
+    <LastName>Marinesu</LastName>
+    <CNP>2000128055089</CNP>
+    <Phone>+40752148725</Phone>
+    <Email>ioana.marinescu@gmail.com</Email>
+    <Address>Str. Abcdef, Nr. 43</Address>
+    <WorkLocation>Cluj</WorkLocation>
+  </BankEmployee>
+</ArrayOfBankEmployee>

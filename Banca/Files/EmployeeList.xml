@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <FirstName>Alexandra</FirstName>
+    <LastName>Stan</LastName>
+    <CNP>6000128055089</CNP>
+    <Phone>+40751703710</Phone>
+    <Email>stan.alexandra2801@gmail.com</Email>
+    <Address>Str. Cazaban, Nr. 54, Bl. An199, Et. 3, Ap. 11</Address>
+    <WorkLocation>Oradea</WorkLocation>
+  </Employee>
+  <Employee>
+    <FirstName>Ioana</FirstName>
+    <LastName>Marinesu</LastName>
+    <CNP>2000128055089</CNP>
+    <Phone>+40752148725</Phone>
+    <Email>ioana.marinescu@gmail.com</Email>
+    <Address>Str. Abcdef, Nr. 43</Address>
+    <WorkLocation>Cluj</WorkLocation>
+  </Employee>
+</ArrayOfEmployee>

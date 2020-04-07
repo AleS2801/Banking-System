@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfBankEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BankEmployee>
+    <FirstName>Alexandra</FirstName>
+    <LastName>Stan</LastName>
+    <CNP>6000128055089</CNP>
+    <Phone>+40751703710</Phone>
+    <Email>stan.aelxandra2801@gmail.com</Email>
+    <Address>Str. Cazaban, Nr. 54, Bl. An199, Et. 3, Ap. 11</Address>
+    <WorkLocation>Oradea</WorkLocation>
+  </BankEmployee>
+</ArrayOfBankEmployee>
